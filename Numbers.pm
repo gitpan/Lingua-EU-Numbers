@@ -9,7 +9,7 @@ use vars qw(
 require Exporter;
 
 @ISA     = qw(Exporter);
-$VERSION = '0.01';
+$VERSION = '0.02';
 @EXPORT  = qw(
   &cardinal2alpha
   &ordinal2alpha
